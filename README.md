@@ -11,4 +11,7 @@ if you have given any Android interview please contribute by helping to add more
 
 
 These questions are real android interview questions asked in various starup and companies , only for educational purpose
-Please dont modify and copy created by Sachin Saxena aka IT Wale Bhaiya https://www.youtube.com/c/sachinsaxena
+Please dont modify and copy (Both are prohibited) 
+
+created by multiple contributors : 
+Sachin Saxena aka IT Wale Bhaiya https://www.youtube.com/c/sachinsaxena
