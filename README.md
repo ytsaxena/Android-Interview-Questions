@@ -7,7 +7,8 @@ Real Android Interview Questions - Beginners to Intermediate (Continuously Updat
 Looking for answers Visit here : https://www.linkedin.com/in/ytsaxena/
 
 
-if you have given any Android interview please contribute by adding new questions in the list - sssaxena058@gmail.com / +91 7526007604
+if you have given any Android interview please contribute by helping to add more new questions in the list - sssaxena058@gmail.com / +91 7526007604
 
 
 These questions are real android interview questions asked in various starup and companies , only for educational purpose
+Please dont modify and copy created by Sachin Saxena aka IT Wale Bhaiya https://www.youtube.com/c/sachinsaxena
